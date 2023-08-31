@@ -5,7 +5,7 @@ def main():
 
     for i in philosophers:
         outfile.write(i+'\n')
-    
+
     outfile.close()
 
 main()
